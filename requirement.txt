@@ -3,3 +3,10 @@ This is a chat bot application
 emoji
 colors
 songs
+
+
+
+Second requirement added here
+videos
+more user friendly
+inactive windows
