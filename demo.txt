@@ -1,1 +1,6 @@
 welcome to git!
+
+New features added now
+-Wow 
+-Awesome
+-Greate CVS&SVN sys
