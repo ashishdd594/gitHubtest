@@ -14,6 +14,12 @@ public class GitTest {
 		}
 		return false;
 	}
+	
+	public float calcSimpleInterest(int pAmt, float rate, float time)
+	{
+		return pAmt * rate * time / 100.0f;
+	}
+	
 	public static void main(String[] args) {
 		GitTest t = new GitTest();
 		System.out.println("Positive case: "+t.search(arr, 2));
