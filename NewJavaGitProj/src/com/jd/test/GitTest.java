@@ -15,7 +15,6 @@ public class GitTest {
 		return false;
 	}
 	public static void main(String[] args) {
-		
 		GitTest t = new GitTest();
 		System.out.println("Positive case: "+t.search(arr, 2));
 		System.out.println("Negative case: "+t.search(arr, 8));
